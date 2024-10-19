@@ -18,6 +18,6 @@ jobs:
       uses: actions/upload-artifact@v4.4.3
       with:
          name: build_files
-         path: dist
+         path: .
     
       
